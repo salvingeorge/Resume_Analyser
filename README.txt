@@ -10,3 +10,6 @@ Resume Analyzer with BERT.ipynb is the main file.
 
 
 The dataset used is given in UpdatedResumeDataset.csv
+
+
+If you want to access all the fine-tuned model, please access download the full package from the google drive link(~800 MB): https://drive.google.com/file/d/13be48acUe-I6a-EgAp3I1og_OXIcfX1D/view
